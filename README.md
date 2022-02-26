@@ -1,26 +1,25 @@
 # NES-Power-Board
 A PCB that will fit in place of the stock NES frontloader's RF module.
 ***
-This PCB will replace the stock RF modulator box. It will have different connector options for outputting audio and video, as well as a breakout for the channel select switch.
+This Fork is from mspinksosu and takes his original design and fixes the composite video and mono sound
+Original Project - https://github.com/mspinksosu/NES-Power-Board
 
-I plan to support:
-* composite video with mono audio
-* composite video and "stereo" audio (standard 3 RCA TV connection)
-* RGB + composite using a Retrofixes SNES style multiout connector.  (Requires existing RGB mod) This will be my version.
-* RGB output directly to the Framemeister's 8-pin mini DIN connector. (Requires existing RGB mod)
+# Improvements in this Fork
+*Converted all SMD parts to through hole components (easier for novice soldering and matches the original)
+*Fixed the Composite Video Circuit using 2SA1015 & 2SC1740 Transistors.
+*Routed all Mono Sound to the RCA_Audio (Red) Jack.  This jack is Mono for Internal or Right for External.
+*Labelled the pins on the Multi-out Header for easier tinkering.
+*Turned the 0 Ohm Resistor pads into quick solder pads.
+*Labelled the RCA Jump section to show in and out signals.
+*Changed the RCA_RF Jack to be Composite Video Only and added a second board that does 9 Pin Genesis Port 2 output.
+*Added a 2 way jumper section for RCA_Video to switch between Composite Video and Left Audio.
+*Changed the thickness of the font for easier reading.
+*Added Capacitor, Resistor and Diode Values on the silkscreen for easy reference.
+*Added a Power LED and LED Resistor, both are SMD 0805 and are optional to use.
+*Added the Breakout pads for Ext Composite Video, Left and Right Channel Audio.
 
-The first two options require no modification to the chassis. All other versions will require some chassis modification, but it will minimal.
 
-This PCB is designed specifically with Tim Worthington's NESRGB board in mind. The channel select switch will have a breakout so that it can be used as a palette selector switch.
-***
-# To-Do List for Rev 3
-- [x] Flip ribbon connector. It will make the ribbon lay flatter (already did this for rev 2 doh!)
-- [x] Check all through holes before sending to board house!
-- [x] Change routing of RGB traces and audio traces completely
-- [x] Separate video signals from audio signals to help avoid the static issue with the noise channel (may try 4 layer)
-- [ ] Fix mounting hole location (may need to move J2)
-- [x] C4 and C6 collide with heatsink of U1
-- [x] Move components to bottom (working from the top is more difficult after installed)
-- [x] Add extra surface mount ribbon connector, 1.27 mm pitch
-- [ ] Test composite output (check if transistor bandwidth is sufficient)
-- [ ] Band pass filter?
+![image](https://user-images.githubusercontent.com/70423454/155845263-13174411-8a89-49a9-94dc-73f4287c7ad0.png)
+
+
+![image](https://user-images.githubusercontent.com/70423454/155845290-7f2093ba-6e6d-428e-b230-7c98344ba051.png)
