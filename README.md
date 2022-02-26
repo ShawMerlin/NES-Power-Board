@@ -2,6 +2,7 @@
 A PCB that will fit in place of the stock NES frontloader's RF module.
 ***
 This Fork is from mspinksosu and takes his original design and fixes the composite video and mono sound
+
 Original Project - https://github.com/mspinksosu/NES-Power-Board
 
 # Improvements in this Version
