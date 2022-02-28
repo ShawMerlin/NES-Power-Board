@@ -6,7 +6,7 @@ This Fork is from mspinksosu and takes his original design and fixes the composi
 Original Project - https://github.com/mspinksosu/NES-Power-Board
 
 # Improvements in this Version
-- Converted all SMD parts to through hole components (easier for novice soldering and matches the original)
+- Converted all SMD parts to through hole components (easier for novice soldering and matches the time period)
 - Fixed the Composite Video Circuit using 2SA1015 & 2SC1740 Transistors.
 - Routed all Mono Sound to the RCA_Audio (Red) Jack.  This jack is Mono for Internal or Right for External.
 - Labelled the pins on the Multi-out Header for easier tinkering.
