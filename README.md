@@ -10,6 +10,7 @@ Original Project - https://github.com/mspinksosu/NES-Power-Board
 - Moved the Large C1 Capacitor over a bit as the NES Shield was hitting it.
 - Changed the Power LED from Stby Power to Power On.
 - Increased Hole Padding for easier Soldering.
+- Changed C3 & C8 Capacitors to Aluminum Organic Polymer Capacitors that are 8mm tall instead 11mm.
 
 # Improvements in Version C
 - Converted all SMD parts to through hole components (easier for novice soldering and matches the time period)
