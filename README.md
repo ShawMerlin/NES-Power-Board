@@ -5,7 +5,13 @@ This Fork is from mspinksosu and takes his original design and fixes the composi
 
 Original Project - https://github.com/mspinksosu/NES-Power-Board
 
-# Improvements in this Version
+# Improvements in Version D (Current)
+- Removed the components that are used for RF since we are not utilitzing that here.
+- Moved the Large C1 Capacitor over a bit as the NES Shield was hitting it.
+- Changed the Power LED from Stby Power to Power On.
+- Increased Hole Padding for easier Soldering.
+
+# Improvements in Version C
 - Converted all SMD parts to through hole components (easier for novice soldering and matches the time period)
 - Fixed the Composite Video Circuit using 2SA1015 & 2SC1740 Transistors.
 - Routed all Mono Sound to the RCA_Audio (Red) Jack.  This jack is Mono for Internal or Right for External.
@@ -23,6 +29,9 @@ Original Project - https://github.com/mspinksosu/NES-Power-Board
 
 
 **-- Gerber Viewer --**
+
+![image](https://user-images.githubusercontent.com/70423454/157851385-621849d3-6b59-41b4-95cc-d1c1de20b542.png)
+
 
 ![image](https://user-images.githubusercontent.com/70423454/155845263-13174411-8a89-49a9-94dc-73f4287c7ad0.png)
 
