@@ -6,7 +6,7 @@ This Fork is from mspinksosu and takes his original design and fixes the composi
 Original Project - https://github.com/mspinksosu/NES-Power-Board
 
 # Improvements in Version D (Current)
-- Removed the components that are used for RF since we are not utilitzing that here.
+- Removed the components that are used for RF since we are not utilizing that here.
 - Moved the Large C1 Capacitor over a bit as the NES Shield was hitting it.
 - Changed the Power LED from Stby Power to Power On.
 - Increased Hole Padding for easier Soldering.
