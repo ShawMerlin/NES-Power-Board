@@ -26,6 +26,9 @@ Original Project - https://github.com/mspinksosu/NES-Power-Board
 - Added a Power LED and LED Resistor, both are SMD 0805 and are optional to use.
 - Added the Breakout pads for Ext Composite Video, Left and Right Channel Audio.
 
+Project is Open Sourced with a MIT License. It can be edited, changed and sold at your own discretion.  
+Please link back here if this helps you with your own project.
+
 [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/donate/?hosted_button_id=97YFBJX4NXA8W)
 
 
