@@ -5,6 +5,7 @@ This Fork is from mspinksosu and takes his original design and fixes the composi
 I also have another repository that has my complete redesign of the NES Power Module to help remove EMI and Noise.
 
 My Redesigned NES Power Module Project - https://github.com/ShawMerlin/NES-Power-Module-Redesign
+
 Original Project - https://github.com/mspinksosu/NES-Power-Board
 
 # Improvements in Version D (Current)
