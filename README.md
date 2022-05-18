@@ -7,6 +7,7 @@ I also have another repository that has my complete redesign of the NES Power Mo
 My Redesigned NES Power Module Project - https://github.com/ShawMerlin/NES-Power-Module-Redesign
 
 Original Project - https://github.com/mspinksosu/NES-Power-Board
+
 Debuted on Long Island Retro Gamer - https://www.youtube.com/c/LongIslandRetroGaming
 
 # Improvements in Version D (Current)
