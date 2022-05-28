@@ -35,6 +35,8 @@ Please link back here if this helps you with your own project.
 [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/donate/?hosted_button_id=97YFBJX4NXA8W)
 
 
+All Donations are reinvested into new ideas and projects.  Thank you for the support.
+
 **-- Gerber Viewer --**
 
 ![image](https://user-images.githubusercontent.com/70423454/157851385-621849d3-6b59-41b4-95cc-d1c1de20b542.png)
