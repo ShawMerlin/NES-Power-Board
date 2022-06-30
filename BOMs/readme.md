@@ -9,6 +9,7 @@ https://octopart.com/bom-tool/vQfUDfYZ
 
 # Octopart BOM Tool for Rev D RGB Genisis 2 Port
 
+https://octopart.com/bom-tool/jOneE400
 
 
 # Alternative Parts
