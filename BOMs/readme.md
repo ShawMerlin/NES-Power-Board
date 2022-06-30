@@ -13,7 +13,7 @@ https://octopart.com/bom-tool/vQfUDfYZ
 
 # Alternative Parts
 
-An Alternative is Available to switch the hot 7805 with a DC to DC Switching Convert.
+An Alternative is Available to switch the hot 7805 Linear Voltage Regulator with a DC to DC Switching Converter.
 
 This will run cool but comes at a cost of around $11.  It has the exact same footprint.
 
