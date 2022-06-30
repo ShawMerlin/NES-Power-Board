@@ -7,6 +7,11 @@ Below you will find the parts needed for the COmposite Video Only Board
 
 https://octopart.com/bom-tool/vQfUDfYZ
 
+# Octopart BOM Tool for Rev D RGB Genisis 2 Port
+
+
+
+# Alternative Parts
 
 An Alternative is Available to switch the hot 7805 with a DC to DC Switching Convert.
 
