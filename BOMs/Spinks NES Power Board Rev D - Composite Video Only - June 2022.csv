@@ -1,7 +1,7 @@
 Designator,Qty,Query,Value,Description, Price ,Mouser Link
 J1,1,PJ-037A,-,"2.1mm ID, DC Power Supply Connector, 2 Pin",$1.64 ,https://www.mouser.com/ProductDetail/CUI-Devices/PJ-037A?qs=WyjlAZoYn53bdNRXfildEA%3D%3D
 J17,1,RCJ-042,-,Right Audio - Red RCA Jack,$1.64 ,https://www.mouser.com/ProductDetail/CUI-Devices/RCJ-042?qs=WyjlAZoYn51fgBDaFkMuLQ%3D%3D
-J18,1,RCJ-053,-,Left Audio - White RCA Jack (Video can be used here too),$1.64 ,https://www.mouser.com/ProductDetail/CUI-Devices/RCJ-043?qs=WyjlAZoYn518Y1bnzBVySQ%3D%3D
+J18,1,RCJ-043,-,Left Audio - White RCA Jack (Video can be used here too),$1.64 ,https://www.mouser.com/ProductDetail/CUI-Devices/RCJ-043?qs=WyjlAZoYn518Y1bnzBVySQ%3D%3D
 J18,1,RCJ-044,-,Video Out Yellow RCA Jack,$1.64 ,https://www.mouser.com/ProductDetail/CUI-Devices/RCJ-044?qs=WyjlAZoYn50SPBJvOy7ojw%3D%3D
 C1,1,B41821F5228M,2200uF,"CAP, ALUM, TH, 12.5x25mm, 2200uF, 25V, 20%, Pitch 5.0mm",$1.14 ,https://www.mouser.com/ProductDetail/EPCOS-TDK/B41821F5228M?qs=asurgvgF1tLWRkuGTfMeAg%3D%3D
 "C2, C4, C5",3,FA18X7R1H103KNU06,.01uF,MLCC - Leaded RAD 50V 0.01uF X7R 10% Pitch 2.5mm,$0.90 ,https://www.mouser.com/ProductDetail/TDK/FA18X7R1H103KNU06?qs=UrFqKgNWc7SeRak9BDPdsw%3D%3D
